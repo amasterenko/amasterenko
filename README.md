@@ -1,4 +1,4 @@
-### Hi, everyone!  My name is Andrey and I'm a/ software developer.  
+### Hi, everyone! My name is Andrey and I'm a software developer.  
 
 #### My tech stack:  
 ##### Java, Hibernate, Spring, PostgreSQL, HTML, CSS, Bootstrap, JS/JQuery, Maven, JUnit, Travis CI.
