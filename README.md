@@ -1,4 +1,4 @@
-### Hi, everyone!  I'm Andrey Masterenko, a java developer.  
+### Hi, everyone!  My name is Andrey and I'm a/ software developer.  
 
 #### My tech stack:  
 ##### Java, Hibernate, Spring, PostgreSQL, HTML, CSS, Bootstrap, JS/JQuery, Maven, JUnit, Travis CI.
@@ -15,5 +15,5 @@
 ##### :small_blue_diamond: [User-emails](https://github.com/amasterenko/job4j_mail): Java (grahp algorithms)  
 ##### :small_blue_diamond: [Car accident service](https://github.com/amasterenko/job4j_car_accident): Spring (Web, JDBC, ORM, Data, Security), PostgreSQL  
 ##### :small_blue_diamond: [Tracker](https://github.com/amasterenko/job4j_tracker): Java Core, JDBC/Hibernate, PostgreSQL, LiquiBase  
-##### :small_blue_diamond: [DreamJob service](https://github.com/amasterenko/job4j_dreamjob): Java Core, JDBC(PostgreSQL), Java Servlets/JSTL, Bootstrap, JWT 
+##### :small_blue_diamond: [DreamJob service](https://github.com/amasterenko/job4j_dreamjob): Java Core, JDBC(PostgreSQL), Java Servlets/JSTL, Bootstrap, JWT  
 ##### :small_blue_diamond: [Cinema service](https://github.com/amasterenko/job4j_cinema): JDBC (PostgreSQL), JAVA servlets/JSTL, Bootstrap, JS/JQuery  
