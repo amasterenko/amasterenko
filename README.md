@@ -1,9 +1,11 @@
 Hi, everyone!  
+
 I'm Andrey Masterenko, a java developer.  
-My tech stack:
+
+My tech stack:  
 Java, Hibernate, Spring, PostgreSQL, HTML, CSS, Bootstrap, JS/JQuery, Maven, JUnit, Travis CI.
 
-Here are my job4j projects:  
+My projects:  
 :small_blue_diamond: [UrlShortcut](https://github.com/amasterenko/job4j_url_shortcut): Spring Boot (Web, Data, Security, Test), REST API, JWT  
 :small_blue_diamond: [Car sales service](https://github.com/amasterenko/job4j_cars): Hibernate (PostgreSQL), JAVA servlets/JSP, Bootstrap, JS/JQuery  
 :small_blue_diamond: [Forum](https://github.com/amasterenko/job4j_forum): Spring Boot (Web, Data, Security), JSP/JSTL, Bootstrap, PostgreSQL, Liquibase  
