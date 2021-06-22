@@ -11,7 +11,7 @@
 ##### :small_blue_diamond: [ToDo list](https://github.com/amasterenko/job4j_todolist): Java Core, Hibernate (PostgreSQL), JAVA servlets/JSTL, Bootstrap, JS/JQuery 
 ##### :small_blue_diamond: [Cams data aggeregator](https://github.com/amasterenko/job4j_cams_aggregator): Java Core (Concurrent, IO, Net)  
 ##### :small_blue_diamond: [Pooh JMS](https://github.com/amasterenko/job4j_pooh): Java Core (Concurrent, IO)  
-##### :small_blue_diamond: [VacancyParser](https://github.com/amasterenko/job4j_grabber): Java , Jsoup, Quartz-scheduler, JDBC, PostgreSQL  
+##### :small_blue_diamond: [VacancyGrabber](https://github.com/amasterenko/job4j_grabber): Java , Jsoup, Quartz-scheduler, JDBC, PostgreSQL  
 ##### :small_blue_diamond: [User-emails](https://github.com/amasterenko/job4j_mail): Java (grahp algorithms)  
 ##### :small_blue_diamond: [Car accident service](https://github.com/amasterenko/job4j_car_accident): Spring (Web, JDBC, ORM, Data, Security), PostgreSQL  
 ##### :small_blue_diamond: [Tracker](https://github.com/amasterenko/job4j_tracker): Java Core, JDBC/Hibernate, PostgreSQL, LiquiBase  
