@@ -1,19 +1,19 @@
 ### Hi, everyone! My name is Andrey and I'm a software developer.  
 
-#### My tech stack:  
-##### Java, Hibernate, Spring, PostgreSQL, HTML, CSS, Bootstrap, JavaScript, Maven, JUnit, Travis CI.
+### My tech stack:  
+#### Java, Hibernate, Spring, PostgreSQL, HTML, CSS, Bootstrap, JavaScript, Maven, JUnit, Travis CI.
 
-#### My projects:  
-##### :small_blue_diamond: [UrlShortcut](https://github.com/amasterenko/job4j_url_shortcut): Spring Boot (Web, Data, Security, Test), REST API, JWT  
-##### :small_blue_diamond: [Car sales service](https://github.com/amasterenko/job4j_cars): Hibernate (PostgreSQL), JAVA servlets/JSP, Bootstrap, JavaScript  
-##### :small_blue_diamond: [Forum](https://github.com/amasterenko/job4j_forum): Spring Boot (Web, Data, Security), JSP/JSTL, Bootstrap, PostgreSQL, Liquibase  
-##### :small_blue_diamond: [Chat](https://github.com/amasterenko/job4j_chat): Spring Boot (Web, Data, Security), REST API, JWT, PostgreSQL 
-##### :small_blue_diamond: [ToDo list](https://github.com/amasterenko/job4j_todolist): Java Core, Hibernate (PostgreSQL), JAVA servlets/JSTL, Bootstrap, JavaScript 
-##### :small_blue_diamond: [Cams data aggeregator](https://github.com/amasterenko/job4j_cams_aggregator): Java Core (Concurrent, IO, Net)  
-##### :small_blue_diamond: [Pooh JMS](https://github.com/amasterenko/job4j_pooh): Java Core (Concurrent, IO)  
-##### :small_blue_diamond: [VacancyGrabber](https://github.com/amasterenko/job4j_grabber): Java , Jsoup, Quartz-scheduler, JDBC, PostgreSQL  
-##### :small_blue_diamond: [User-emails](https://github.com/amasterenko/job4j_mail): Java (grahp algorithms)  
-##### :small_blue_diamond: [Car accident service](https://github.com/amasterenko/job4j_car_accident): Spring (Web, JDBC, ORM, Data, Security), PostgreSQL  
-##### :small_blue_diamond: [Tracker](https://github.com/amasterenko/job4j_tracker): Java Core, JDBC/Hibernate, PostgreSQL, LiquiBase  
-##### :small_blue_diamond: [DreamJob service](https://github.com/amasterenko/job4j_dreamjob): Java Core, JDBC(PostgreSQL), Java Servlets/JSTL, Bootstrap, JWT  
-##### :small_blue_diamond: [Cinema service](https://github.com/amasterenko/job4j_cinema): JDBC (PostgreSQL), JAVA servlets/JSTL, Bootstrap, JavaScript  
+### My projects:  
+#### :small_blue_diamond: [UrlShortcut](https://github.com/amasterenko/job4j_url_shortcut): Spring Boot (Web, Data, Security, Test), REST API, JWT  
+#### :small_blue_diamond: [Car sales service](https://github.com/amasterenko/job4j_cars): Hibernate (PostgreSQL), JAVA servlets/JSP, Bootstrap, JavaScript  
+#### :small_blue_diamond: [Forum](https://github.com/amasterenko/job4j_forum): Spring Boot (Web, Data, Security), JSP/JSTL, Bootstrap, PostgreSQL, Liquibase  
+#### :small_blue_diamond: [Chat](https://github.com/amasterenko/job4j_chat): Spring Boot (Web, Data, Security), REST API, JWT, PostgreSQL 
+#### :small_blue_diamond: [ToDo list](https://github.com/amasterenko/job4j_todolist): Java Core, Hibernate (PostgreSQL), JAVA servlets/JSTL, Bootstrap, JavaScript 
+#### :small_blue_diamond: [Cams data aggeregator](https://github.com/amasterenko/job4j_cams_aggregator): Java Core (Concurrent, IO, Net)  
+#### :small_blue_diamond: [Pooh JMS](https://github.com/amasterenko/job4j_pooh): Java Core (Concurrent, IO)  
+#### :small_blue_diamond: [VacancyGrabber](https://github.com/amasterenko/job4j_grabber): Java , Jsoup, Quartz-scheduler, JDBC, PostgreSQL  
+#### :small_blue_diamond: [User-emails](https://github.com/amasterenko/job4j_mail): Java (grahp algorithms)  
+#### :small_blue_diamond: [Car accident service](https://github.com/amasterenko/job4j_car_accident): Spring (Web, JDBC, ORM, Data, Security), PostgreSQL  
+#### :small_blue_diamond: [Tracker](https://github.com/amasterenko/job4j_tracker): Java Core, JDBC/Hibernate, PostgreSQL, LiquiBase  
+#### :small_blue_diamond: [DreamJob service](https://github.com/amasterenko/job4j_dreamjob): Java Core, JDBC(PostgreSQL), Java Servlets/JSTL, Bootstrap, JWT  
+#### :small_blue_diamond: [Cinema service](https://github.com/amasterenko/job4j_cinema): JDBC (PostgreSQL), JAVA servlets/JSTL, Bootstrap, JavaScript  
