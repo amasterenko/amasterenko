@@ -1,9 +1,7 @@
-### Hi, everyone! My name is Andrey and I'm a software developer.  
-
 ### My tech stack:  
-#### Java, Hibernate, Spring, PostgreSQL, HTML, CSS, Bootstrap, JavaScript, Maven, JUnit, Travis CI.
+#### Java, JavaScript, HTML, Hibernate, Spring, Bootstrap, JUnit, PostgreSQL, Maven, Travis CI.
 
-### My projects:  
+### Projects:  
 * #### [UrlShortcut](https://github.com/amasterenko/job4j_url_shortcut): Spring Boot (Web, Data, Security, Test), REST API, JWT  
 * #### [Car sales service](https://github.com/amasterenko/job4j_cars): Hibernate (PostgreSQL), JAVA servlets/JSP, Bootstrap, JavaScript  
 * #### [Forum](https://github.com/amasterenko/job4j_forum): Spring Boot (Web, Data, Security), JSP/JSTL, Bootstrap, PostgreSQL, Liquibase  
